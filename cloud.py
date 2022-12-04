@@ -4,19 +4,7 @@
 # In[1]:
 
 
-print("hello world")
 
-
-# In[2]:
-
-
-get_ipython().system(' pip install nsepy')
-
-
-# In[3]:
-
-
-get_ipython().system(' pip install pandas-datareader')
 
 
 # In[4]:
