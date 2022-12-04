@@ -1,0 +1,8 @@
+numpy
+nsepy
+pandas
+pandas-data_reader 
+datetime
+matplotlib.pyplot
+ssl 
+smtp
